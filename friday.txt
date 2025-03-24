@@ -1,4 +1,5 @@
 Yay! it's friday
 modify friday.txt
 Happy weekend!
+<<<<<<< HEAD
 Conflict created locally as well!
