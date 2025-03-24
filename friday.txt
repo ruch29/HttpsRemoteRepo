@@ -1,5 +1,5 @@
 Yay! it's friday
 modify friday.txt
 Happy weekend!
-<<<<<<< HEAD
-Conflict created locally as well!
+Now it's monday already
+sigh!! :(
