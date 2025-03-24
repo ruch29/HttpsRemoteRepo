@@ -1,3 +1,4 @@
 Yay! it's friday
 modify friday.txt
 Happy weekend!
+Let's create a merge conflict
