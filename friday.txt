@@ -1,3 +1,4 @@
 Yay! it's friday
 modify friday.txt
 Happy weekend!
+Conflict created locally as well!
