@@ -1,4 +1,8 @@
 what to add here??
 I donno, just adding this line!
+<<<<<<< HEAD
 It's monday again!!!!! :(
 Nothing changes if nothing changes..
+=======
+I wish it's sunday everyday!!
+>>>>>>> a4bbe86bf1811d13412f10e25de987956e974e90
